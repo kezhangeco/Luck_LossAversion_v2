@@ -1,0 +1,96 @@
+trial,v_50_1,v_50_2,v_100,subject choice,computer choice,rt(ms)
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,3,18,10.5,False,3,12162.324905395508
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-2,-12,-7.0,False,-12,13898.805141448975
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-2,-12,-4.5,False,-2,3663.6509895324707
+3,1,6,3.5,True,3.5,4800.323009490967
+4,2,12,7.0,True,7.0,5011.105060577393
+5,-4,-24,-14.0,True,-14.0,13974.153995513916
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-2,-12,-3.25,False,-12,2721.2698459625244
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-5,-30,-17.5,False,-5,4287.161827087402
+8,-3,-18,-10.5,True,-10.5,6674.871921539307
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,1,6,2.25,False,6,3942.924976348877
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,1,6,2.875,False,1,7373.585939407349
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-3,-18,-14.25,False,-3,3585.3679180145264
+12,5,30,17.5,True,17.5,4568.620204925537
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,2,12,4.5,False,2,4147.820949554443
+14,-2,-12,-2.625,True,-2.6,5394.358158111572
+15,-2,-12,-2.9375,True,-2.9,6553.5712242126465
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-1,-6,-3.5,False,-1,2868.5359954833984
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-4,-24,-19.0,False,-24,9426.419973373413
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-3,-18,-12.375,False,-18,5702.837944030762
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,4,24,14.0,False,24,2478.2819747924805
+20,-2,-12,-3.09375,True,-3.1,4305.145978927612
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-5,-30,-11.25,False,-30,11538.1019115448
+22,-1,-6,-2.25,True,-2.2,3357.171058654785
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-1,-6,-2.875,False,-6,2367.9709434509277
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,1,6,3.1875,False,1,1810.7988834381104
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-4,-24,-16.5,False,-4,2396.803140640259
+26,-5,-30,-8.125,True,-8.1,3068.199872970581
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-1,-6,-2.5625,False,-1,3048.4819412231445
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,2,12,5.75,False,12,4578.701972961426
+29,-5,-30,-9.6875,True,-9.7,4282.764911651611
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-4,-24,-15.25,False,-24,2905.658006668091
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,4,24,19.0,False,24,2811.7730617523193
+32,2,12,6.375,True,6.4,3201.046943664551
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,2,12,6.0625,False,12,2283.1759452819824
+34,4,24,21.5,True,21.5,2985.045909881592
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-1,-6,-2.40625,False,-6,4003.6020278930664
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-3,-18,-11.4375,False,-3,7545.519113540649
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,2,12,6.21875,False,2,2668.637990951538
+38,4,24,20.25,True,20.2,2676.2778759002686
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-3,-18,-10.96875,False,-3,8352.725982666016
+40,5,30,11.25,True,11.2,15978.892803192139
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-4,-24,-14.625,False,-24,5669.035911560059
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-3,-18,-10.734375,False,-18,8660.223960876465
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,1,6,3.34375,False,6,2312.78395652771
+44,3,18,14.25,True,14.2,6292.996883392334
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-1,-6,-2.328125,False,-1,3052.069902420044
+46,4,24,19.625,True,19.6,2530.0979614257812
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-4,-24,-14.3125,False,-4,8589.230060577393
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,1,6,3.421875,False,6,3938.4829998016357
+49,-5,-30,-10.46875,True,-10.5,3451.8420696258545
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,5,30,8.125,False,5,5408.843994140625
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,-5,-30,-10.859375,False,-5,3844.3241119384766
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,5,30,9.6875,False,5,7070.828914642334
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,3,18,12.375,False,18,3624.105930328369
+54,3,18,13.3125,True,13.3,2778.6970138549805
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,5,30,10.46875,False,5,3136.4850997924805
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,5,30,10.859375,False,5,3580.9550285339355
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,4,24,19.3125,False,4,3141.216039657593
+58,3,18,12.84375,True,12.8,2743.3722019195557
+59,3,18,12.609375,True,12.6,3445.2531337738037
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,3.3828125,-3.3828125,0,False,-3.4,5673.969984054565
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,10.6640625,-10.6640625,0,False,-10.7,4246.988773345947
+62,19.46875,-19.46875,0,True,0,2831.0470581054688
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,6.140625,-6.140625,0,False,-6.1,1538.26904296875
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,12.7265625,-12.7265625,0,False,12.7,2887.2528076171875
+65,19.46875,-9.734375,0,True,0,3653.3617973327637
+66,3.3828125,-11.83984375,0,True,0,9672.343015670776
+67,6.140625,-21.4921875,0,True,0,3186.3670349121094
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,19.46875,-4.8671875,0,False,-4.9,5183.113813400269
+69,12.7265625,-44.54296875,0,True,0,2046.9582080841064
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,10.6640625,-37.32421875,0,False,-37.3,5850.8100509643555
+71,6.140625,-13.81640625,0,True,0,6376.657009124756
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,3.3828125,-7.611328125,0,False,-7.6,3966.1388397216797
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,19.46875,-7.30078125,0,False,19.5,3350.1040935516357
+74,3.3828125,-9.7255859375,0,True,0,2019.8891162872314
+75,3.3828125,-8.66845703125,0,True,0,9076.250076293945
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,19.46875,-8.517578125,0,False,-8.5,5181.022882461548
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,6.140625,-9.978515625,0,False,-10.0,4016.7407989501953
+78,10.6640625,-50.654296875,0,True,0,3931.5521717071533
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,19.46875,-9.1259765625,0,False,19.5,2566.4820671081543
+80,6.140625,-11.8974609375,0,True,0,3979.4259071350098
+81,6.140625,-10.93798828125,0,True,0,26339.18285369873
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,12.7265625,-28.634765625,0,False,12.7,7110.919952392578
+83,6.140625,-6.140625,0,True,0,7076.939821243286
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,3.3828125,-8.139892578125,0,False,3.4,12108.856916427612
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,19.46875,-19.46875,0,False,-19.5,36943.90392303467
+86,10.6640625,-43.9892578125,0,True,0,2067.1980381011963
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,3.3828125,-3.3828125,0,False,3.4,2051.5778064727783
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,10.6640625,-40.65673828125,0,False,10.7,2043.6577796936035
+89,10.6640625,-42.322998046875,0,True,0,1788.586139678955
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,10.6640625,-10.6640625,0,False,10.7,3090.9008979797363
+91,12.7265625,-36.5888671875,0,True,0,2394.397020339966
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,12.7265625,-32.61181640625,0,False,12.7,1882.3590278625488
+93,12.7265625,-34.600341796875,0,True,0,1696.0680484771729
+<bound method App.trialNo of <__main__.App object at 0x1023d1f98>>,12.7265625,-12.7265625,0,False,-12.7,10730.705976486206
